@@ -26,3 +26,49 @@
   padding-right: 20px;
   border: 2pt solid;
 }
+
+.btn_cherry{
+  position: absolute;
+  margin-top: 110%;
+  margin-left: 40vw;
+  text-decoration: none;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  font-family: arial black;
+  font-size: 26pt;
+  padding: 15px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.btn_cherry:hover{
+  background-color: #0f08cf;
+  color: white;
+}
+
+.wild_cherry_videos {
+  background-image: url("https://www.pepsi.com/en-us/refresh082123/images/wild-cherry/wc-tvc-bg-mb.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.wild_cherry_card {
+  text-align: center;
+  width: 40%;
+  margin: 40px;
+}
+
+.btn_cherry_2{
+  text-decoration: none;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  font-family: arial black;
+  font-size: 26pt;
+  padding: 15px;
+  width: 200px;
+}
